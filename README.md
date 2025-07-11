@@ -12,6 +12,7 @@ Tools: Jupyter Notebooks, Google Colab, Git, GitHub, Eclipse, VSCode
 Databases: SQL, DAX
 
 📫 How to Reach Me:
+
 Email: sanjanaav0522@gmail.com
 
 LinkedIn: linkedin.com/in/sanjanaa-viswanathan 
