@@ -13,6 +13,7 @@ Databases: SQL, DAX
 
 📫 How to Reach Me:
 Email: sanjanaav0522@gmail.com
+
 LinkedIn: linkedin.com/in/sanjanaa-viswanathan 
 
 
