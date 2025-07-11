@@ -8,7 +8,7 @@ I love tackling real-world problems through data analysis and predictive modelin
 🛠 Tech Stack:<br/>
 Languages: Python, Java, C, Assembly, Ocaml, Rust<br/>
 Data Science: Pandas, NumPy, scikit-learn<br/>
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub, Eclipse, VSCode<br/>
+Tools: Jupyter Notebooks, Google Colab, Git, GitHub, Eclipse, VSCode, Sharepoint, PowerBI<br/>
 Databases: SQL, DAX<br/>
 
 📫 How to Reach Me:<br/>
