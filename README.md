@@ -3,7 +3,7 @@
 🎓 Junior at University of Maryland, studying Computer Science, Machine Learning<br/>
 🔭 Aspiring Machine Learning Engineer
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
+I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in full stack developement in an internship where I can contribute to exciting projects and learn from industry professionals!
 
 🛠 Tech Stack:<br/>
 Languages: Python, Java, C, Assembly, Ocaml, Rust<br/>
